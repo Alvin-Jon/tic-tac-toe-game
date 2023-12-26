@@ -54,5 +54,5 @@ The project aims to create a functional Tic Tac Toe game where users can play ag
 
 ## License
 
-This project is licensed under the []().
+This project is licensed under the [MIT License](LICENSE).
 
